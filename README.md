@@ -1,2 +1,2 @@
-# My demo reop
+# My demo Repo
 This is just for testing 
